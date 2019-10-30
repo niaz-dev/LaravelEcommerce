@@ -1,8 +1,9 @@
 {
     "name": "laravel/laravel",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Ecommerce theme with laravel framework",
     "keywords": [
+        "E-commerce",
         "framework",
         "laravel"
     ],
