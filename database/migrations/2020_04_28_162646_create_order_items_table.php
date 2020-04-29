@@ -20,6 +20,7 @@ class CreateOrderItemsTable extends Migration
             $table->string('promo_code')->nullable();
             $table->integer('discount');
             $table->timestamps();
+            
         });
     }
 
