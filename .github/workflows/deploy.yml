@@ -8,8 +8,11 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: ./
+    - name: checkout
+      uses: actions/checkout@v1
+
+    - name: executing remote ssh commands using password
+      uses: ./
       with:
         host: ${{ secrets.HOST }}
         username: ${{ secrets.USERNAME }}
