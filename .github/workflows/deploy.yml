@@ -1,4 +1,4 @@
-name: CD
+name: CD56
 
 on:
   push:
