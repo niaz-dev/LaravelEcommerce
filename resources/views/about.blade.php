@@ -1,3 +1,4 @@
 <p>Some text</p>
 
-<p>first bane new chang </p>
+
+<p>This is conflict</p>
