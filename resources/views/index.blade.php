@@ -85,6 +85,7 @@
         <div class="content">
             <div class="title m-b-md">
                 <h4>Firt code after git clone & create branch</h4>
+                <p>Second time code change in first barch</p>
             </div>
 
 
